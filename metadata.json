@@ -1,0 +1,6 @@
+{
+  "name": "CivicFix - Community Issue Reporting Platform",
+  "description": "A responsive civic issue tracking platform empowering citizens to report, upvote, and monitor local community problems with an administrative resolution workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
